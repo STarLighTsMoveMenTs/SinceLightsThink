@@ -43,9 +43,9 @@ Der **Kapitel-Themen-Seiten-Modus** bietet:
 
 ---
 
-## 🧘 Die Philosophie: Sich nicht zu sehr belasten
+## 🧘 Die Philosophie: Sich nicht überfordern
 
-> *"Um sich nicht zu krass zu schultern"* - sich nicht zu viel auf einmal vornehmen, sich nicht zu sehr belasten.
+> *"Um sich nicht zu krass zu schultern"* - eine sanfte Erinnerung, sich nicht zu überfordern, sich nicht zu sehr zu belasten, sich nicht zu viel auf einmal vorzunehmen.
 
 ### Was das bedeutet:
 
