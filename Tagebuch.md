@@ -5,6 +5,13 @@ Ein sanfter Begleiter durch die innere Transformation - strukturiert in Kapitel,
 
 ---
 
+## 🗺️ Navigation
+
+- **[Struktur-Übersicht](./Struktur.md)** - Vollständige Karte des Systems
+- **[Anleitung](./Anleitung.md)** - Ausführlicher Leitfaden
+
+---
+
 ## 📚 Kapitel-Übersicht
 
 ### [Kapitel 1: Selbstentdeckung](./kapitel/01-selbstentdeckung/README.md)
