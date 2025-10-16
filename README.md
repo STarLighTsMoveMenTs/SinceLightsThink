@@ -11,4 +11,4 @@ Ein gigantisches Tagebuch für Geist und Seele im Kapitel-Themen-Seiten-Modus.
 
 Ein sanfter Begleiter durch die innere Transformation - strukturiert und ohne überwältigend zu sein. 🌟
 
-**[📚 Anleitung](./Anleitung.md)** | **[🗺️ Struktur-Übersicht](./Struktur.md)**
+**[📚 Anleitung](./Anleitung.md)** | **[🗺️ Struktur-Übersicht](./Struktur.md)** | **[💫 Philosophie](./Philosophie.md)**

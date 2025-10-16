@@ -10,6 +10,7 @@ Ein sanfter Begleiter durch die innere Transformation - strukturiert in Kapitel,
 - **[🚀 Schnellstart](./Schnellstart.md)** - In 5 Minuten loslegen!
 - **[Struktur-Übersicht](./Struktur.md)** - Vollständige Karte des Systems
 - **[Anleitung](./Anleitung.md)** - Ausführlicher Leitfaden
+- **[Philosophie](./Philosophie.md)** - Die Vision hinter dem System
 
 ---
 
