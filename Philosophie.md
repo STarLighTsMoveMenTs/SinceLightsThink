@@ -20,6 +20,8 @@ Viele Journaling-Systeme sind entweder:
 - Zu rigid (einschränkend durch Regeln)
 - Zu umfangreich (überwältigend durch Masse)
 
+Diese Systeme können dazu führen, dass man sich zu viel auf einmal vornimmt.
+
 ### Die Lösung
 
 Der **Kapitel-Themen-Seiten-Modus** bietet:
@@ -41,9 +43,9 @@ Der **Kapitel-Themen-Seiten-Modus** bietet:
 
 ---
 
-## 🧘 Die Philosophie: Nicht zu krass schultern
+## 🧘 Die Philosophie: Sich nicht zu sehr belasten
 
-> *"Um sich nicht zu krass zu schultern"* - Das ist das Herzstück.
+> *"Um sich nicht zu krass zu schultern"* - sich nicht zu viel auf einmal vornehmen, sich nicht zu sehr belasten.
 
 ### Was das bedeutet:
 
